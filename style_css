@@ -1,0 +1,63 @@
+.A{
+    border:solid firebrick;
+    border-radius: 500px;
+    text-align: center;
+    color: deeppink;
+    background-color: cadetblue;
+}
+
+.B{
+    border:solid firebrick;
+    border-radius: 500px;
+    text-align: center;
+    color: yellow;
+    background-color: cadetblue;
+}
+
+.C{
+    text-align: center;
+    border: solid gold;
+    border-radius: 70px;
+    background-color: gold;
+    box-shadow: 5px 5px 5px 5px blueviolet;
+}
+
+.D{
+    text-align: center;
+    border: solid bisque;
+    border-radius: 70px;
+    background-color: bisque;
+    box-shadow: 5px 5px 5px 5px blueviolet;
+}
+
+.E{
+    text-align: center;
+    border: solid pink;
+    border-radius: 70px;
+    background-color: pink;
+    box-shadow: 5px 5px 5px 5px blueviolet;
+}
+
+.F{
+    text-align: center;
+    border: solid plum;
+    border-radius: 70px;
+    background-color: plum;
+    box-shadow: 5px 5px 5px 5px blueviolet;
+}
+
+.G{
+    text-align: center;
+    border: solid yellow;
+    border-radius: 70px;
+    background-color: yellow;
+    box-shadow: 5px 5px 5px 5px blueviolet;
+}
+
+.A1{
+    text-align: center;
+    border: solid rgb(0, 217, 255);
+    border-radius: 70px;
+    background-color: rgb(0, 217, 255);
+    box-shadow: 5px 5px 5px 5px blueviolet;
+}
